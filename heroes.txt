@@ -1,0 +1,7 @@
+미국;hulk;23;True
+미국;ironman;34;True
+미국;hawkeye;55;True
+미국;loki;66;True
+미국;thor;77;True
+미국;captain;88;True
+미국;vision;99;True
